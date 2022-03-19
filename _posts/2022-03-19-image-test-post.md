@@ -9,6 +9,8 @@ cover-img: /assets/img/sailorJess_1.jpg
 
 ### DCSHG Comic
 
+Our story begins...
+
 ![c](/assets/img/dcshg_comic_01.jpg)
 ![c](/assets/img/dcshg_comic_02.jpg)
 ![c](/assets/img/dcshg_comic_03.jpg)
