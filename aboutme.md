@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About me?!
+subtitle: Shaken, not stirred
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+There's so much to learn about me, it's hard to even know where to begin.  I'm just *that* interesting, y'know?
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+This is an experiment with using Github and Beautiful Jekyll as a potential foundation for a traditional blog, with support in mind for video players and comics.
 
 ### My story
 
