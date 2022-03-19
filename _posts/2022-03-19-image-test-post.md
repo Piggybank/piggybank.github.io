@@ -2,7 +2,7 @@
 layout: post
 title: Image Test
 subtitle: Lots of images can be found here.
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/sailorJess_1.jpg
 ---
 
 #Images Test
