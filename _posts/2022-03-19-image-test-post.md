@@ -1,9 +1,9 @@
----
+--
 layout: post
 title: Image Test
 subtitle: Lots of images can be found here.
 cover-img: /assets/img/path.jpg
----
+--
 
 #Images Test
 
