@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Piggybank's Tomfoolery
+title: Nick's Seaside Nook
 
 # Your name to show in the footer
 author: Piggybank
@@ -15,10 +15,20 @@ author: Piggybank
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://nkalmar.com"
+#  My Sites:
+#     - tumblr: "https://beautifuljekyll.com"
+#     - twitter: "https://beautifuljekyll.com"
+#     - Newgrounds: "https://beautifuljekyll.com"
+#     - itch: "https://beautifuljekyll.com"
+#     - Picarto: "https://beautifuljekyll.com"
+#     - YouTube: "https://beautifuljekyll.com"
+
+  Webcomics:
+    - Professional Relations: "https://tapas.io/series/Professional-Relations/info"
+    - Ask Spike Da Dragon: "https://askspikedadragon.tumblr.com/"
+    - Ask Sonic Da Hedgehog: "https://asksonicdahedgehog.tumblr.com/"
+    - Letters From Pearl: "https://lettersfrompearl.tumblr.com/"
+  Portfolio: "https://nkalmar.com"
 
 # --- Logo --- #
 
@@ -63,7 +73,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
+#  discord: invite/invite_code or users/userid
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -117,7 +127,7 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-footer-img: "/assets/img/rAW_BG_web.jpg"
+footer-img: "/assets/img/BG_butterflies.png"
 #page-img: "/assets/img/rAW_BG_web.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
@@ -172,23 +182,23 @@ footer-img: "/assets/img/rAW_BG_web.jpg"
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
-# section commented if you aren't using reCaptcha for spam protection. 
-# Using Staticman requires advanced knowledge, please consult 
-# https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further 
-# instructions. For any support with staticman please direct questions to staticman and 
+# section commented if you aren't using reCaptcha for spam protection.
+# Using Staticman requires advanced knowledge, please consult
+# https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further
+# instructions. For any support with staticman please direct questions to staticman and
 # not to BeautifulJekyll.
 #staticman:
 #  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
 #  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
 #  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
-#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
+#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well)
 #    siteKey  : # You need to apply for a site key on Google
 #    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
 
 # To use giscus comments:
-# (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository, 
+# (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository,
 # (2) Install the giscus app in your repository (details at https://giscus.app),
-# (3) Fill in *all* the parameters below 
+# (3) Fill in *all* the parameters below
 # See more details about giscus and each of the following parameters at https://giscus.app
 #giscus:
 #  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
@@ -254,4 +264,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
