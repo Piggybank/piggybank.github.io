@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OC Origins Issue 1 - Mitri
+title: OC Origins - Mitri
 subtitle: The story behind everyone's favorite sweater girl
 thumbnail-img: /assets/img/Mitri-thumbsUp-icon.gif
 tags: [original, OC, Mitri]
