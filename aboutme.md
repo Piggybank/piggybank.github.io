@@ -6,9 +6,20 @@ subtitle: Just ate a hot pepper?
 
 try drinking milk or eating whole wheat bread.
 
+## Who am I?
+
+I love drawing and telling stories.  I love it so much that it's my full-time job!  
+I've been working in the entertainment industry for almost a decade on shows, film and game development projects, both for clients and for myself.  art is fun!
+
+### Where am I?
+
 This is an experiment with using github pages and Beautiful Jekyll as a foundation for a blog, as part of my decades-long quest to find the "perfect blog".
 
-Often, updates will happen here as a result of procrastination on more important things, like the rough animation work that I should be working on right now for a client, or [more juicy pin-ups for my Patreon](https://patreon.com/garbunkle).
+Often, updates will happen here as a result of procrastination on more important things, like the rough animation work that I should be working on right now for a client, or drawing [more juicy pin-ups for my 18+ Patreon](https://patreon.com/garbunkle).
 
 I also have a [bear blog](https://piggybank.bearblog.dev/), and a blog on my 18+ site, [garbunkle.art](https://garbunkle.art/).  
 You can find even more links over at my [linktr.ee](https://linktr.ee/garbunkle)
+
+Lastly, don't forget to grab the RSS link for this blog!  With that link, you'll be able to easily keep up with my updates without needing to visit the page every day. :3
+
+thanks for reading <3
