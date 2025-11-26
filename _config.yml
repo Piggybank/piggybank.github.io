@@ -80,13 +80,13 @@ social-network-links:
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
-  itchio: https://garbunkle.itch.io/
+  itchio: garbunkle
 #  untappd: yourname
 #  strava: youruserid
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Piggybank's Scribbles is where Piggybank/Garbunkle posts stuff!
+rss-description: Piggybank's Scribbles is where Piggybank posts stuff!
 
 ###########################
 # --- General options --- #
